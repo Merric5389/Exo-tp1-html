@@ -1,0 +1,142 @@
+
+ 
+body{
+    width: 1300px;
+    margin: 0 100px;
+}
+.entete {
+    display:flex;
+
+}
+.entete ul{
+    display: flex;
+    padding-left: 780px;
+}
+.entete li{
+    list-style-type: none;
+    padding-left: 30px;
+    padding-top: 15px;
+    font-size: 1.3em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.arriere-plan-img{
+    width: 1320px;
+    height: 550px;
+    margin-top: -18px;
+    position: absolute;
+}
+.logo-img{
+    position: absolute;
+    width: 280px;
+    left: 630px;
+    top: 300px;
+}
+.arriere-plan h1{
+    position: absolute;
+    left: 590px;
+    top: 380px;
+    font-size: 2.8em;
+    color: white;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.paraph1{
+    width: 900px;
+    margin-top: 580px;
+    font-size: 1.8em;
+    text-align: center;
+    margin-left: 220px;
+}
+
+.section2{
+    display: flex;
+    width: 900px;
+    margin-left: 180px;
+    padding-left: 50px;
+}
+.section2 div{
+    
+    margin-left: 50px;
+}
+.section2 p{
+    text-align: center;
+    font-size: 1.1em;
+    
+}
+.section2 h3{
+   padding-left: 60px;
+    
+}
+.section2-3 h3{
+   padding-left: 10px; 
+}
+.section2 img{
+    margin-left: 80px;
+}
+.section2-3 img{
+    margin-left: 50px;
+}
+.paraph2{
+    width: 540px;
+    font-size: 1.3em;
+    text-align: center;
+    margin: 60px 0px 0px 450px;
+}
+.Nom{
+    margin-left: 630px;
+    font-size: 1.2em;
+}
+footer{
+    background-color: rgb(91, 53, 157);
+    color: white;
+    padding-bottom: 10px;
+}
+footer p{
+    padding-left: 450px;
+    padding-top:30px ;
+    font-size: 1.3em;
+}
+.img-reseau{
+    padding-left: 480px;
+}
+footer img{
+    width: 40px;
+    padding-left: 80px;
+}
+.pied-page{
+    display: flex;
+    justify-content: space-around;
+}
+.pied-page li{
+  font-size: 1.2em;
+}
+.pied-page-fin{
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
